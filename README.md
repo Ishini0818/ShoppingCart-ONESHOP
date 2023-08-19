@@ -40,10 +40,4 @@ CT/2018/061 - https://github.com/KavinduMadusha <br/>
 ![Screenshot (527)](https://github.com/Ishini0818/ShoppingCart-ONESHOP/assets/101697017/25e30934-6c38-4e69-999f-d750bf05514e) <br>
 
 
-  /*<img src="https://i.im.ge/2023/01/13/sO1xDm.Screenshot-521.png" alt="interface1"></br></br>
-  <img src="https://i.im.ge/2023/01/13/sO1gNT.Screenshot-522.png" alt="interface2"></br></br>
-  <img src="https://i.im.ge/2023/01/13/sO209L.Screenshot-523.png" alt="interface3"></br></br>
-  <img src="https://i.im.ge/2023/01/13/sO18Vc.Screenshot-524.png" alt="interface4"></br></br>
-  <img src="https://i.im.ge/2023/01/13/sO2jQx.Screenshot-525.png" alt="interface5"></br></br>
-  <img src="https://i.im.ge/2023/01/13/sO2CFF.Screenshot-526.png" alt="interface6"></br></br>
-  <img src="https://i.im.ge/2023/01/13/sO2xR9.Screenshot-527.png" alt="interface7"></br>*/
+
